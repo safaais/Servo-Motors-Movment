@@ -73,5 +73,8 @@ This circuit is designed to control the four servo motors using the Arduino Uno 
 ![image alt](https://github.com/safaais/Servo-Motors-Movment/blob/216f6e24dedafa443ee196c7d7cf229a0d8aa12e/IMG_2701.jpg)
 
 
+https://www.tinkercad.com/things/63Go2ZHu3PA-spectacular-duup-bojo
+
+
 
 
