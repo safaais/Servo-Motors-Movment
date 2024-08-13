@@ -2,8 +2,12 @@
 •	This project uses an Arduino UNO board to control 6 servo motors, enabling the creation of a walking motion for a robot. The Servo library facilitates the precise control of the servo motors, allowing for the coordinated movement required for locomotion.
 
 
-## •	Power: The red wire from the Arduino Uno board's 5V pin is connected to the positive rail of the breadboard, and the black wire from the GND pin is connected to the negative rail.
+## •	Power: 
+
+The red wire from the Arduino Uno board's 5V pin is connected to the positive rail of the breadboard, and the black wire from the GND pin is connected to the negative rail.
 ## •	Servos: The servos are connected to the breadboard as follows:
+
+
 #### •	Servo 1: Red wire to 5V, black wire to GND, and orange wire to digital pin 9.
 #### •	Servo 2: Red wire to 5V, black wire to GND, and orange wire to digital pin 10.
 #### •	Servo 3: Red wire to 5V, black wire to GND, and orange wire to digital pin 11.
@@ -63,4 +67,11 @@ void loop() {
 ```
 
 ## The Circuit:
+
+This circuit is designed to control the four servo motors using the Arduino Uno board. The code for controlling the servos would need to be written in Arduino programming language
+
+![image alt](https://github.com/safaais/Servo-Motors-Movment/blob/216f6e24dedafa443ee196c7d7cf229a0d8aa12e/IMG_2701.jpg)
+
+
+
 
